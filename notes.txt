@@ -1,0 +1,140 @@
+BigO 
+
+O(n)  number of inputs increase number of  operations , aka Linear time 0(n) 
+O(1) - constant time 
+
+
+N depends on the number  inputs  
+
+
+Linear  O(n) - Fair 
+O (log n) - good 
+O(1) 
+0(n * 2) quadratic operation 
+
+O (n log n) bad 
+
+O(n * 2)  - horrible  
+O(2*n) 
+O(n!) 
+
+
+Rules 
+
+1. Worst case scenario  
+2. Remove constants  I.e O(2n) = O(n)
+3.  Different terms for input I.e treat inputs differently O(a + B) a. Same indentation you add O(a + b) b. Nested you multiply 0(a * B) 
+4. Drop non dominants  0(n +  a ^ 2 )  = 0(aˆ2)
+
+
+Big o Cheat sheet
+
+
+Big  Os -
+
+0(1) constants - no loops 
+0(log n) logarimitic - usually searching algos have log(n) if they are sorted (binary search ) (not hash maps though) 
+0(n) Linear - for loops, while loops 
+0(n * log (n) ) = log linear sorting operations usually 
+0(n ˆ2) Quadratic - every element in a collection need to be compared to every other element, two nested loops 
+0(2 ^N) Exponential - recursive algoriththims that solve a problem of size N
+0(n!) you are adding a loop for every element. 
+
+
+
+What can cause time in a function ?
+
+Operations ( +, -, * , /) 
+Comparison (< , >, ==) 
+Looping (for, while ) 
+Outside Function call (Function()) 
+
+
+Rule Book 
+
+Rule 1: Always worse case 
+Rule 2: Remove constants 
+Rule 3: Different insure should have different variables. 0(a + B). A and B arrays nested would be 0(a*B) 
+            + for steps in order 
+            * for nested steps 
+Rule 4; Drop non-dominate terms 
+
+
+Data structures  + Algorithms = Programs 
+
+Data structures a simple ways to store data 
+Algorithms ways functions use data 
+
+O(n!) factorial time - Oh no , adding a nested loop for every input 
+
+
+
+What is good code? 
+1. Readable 
+2. Scalable a. Speed - how fast and how many operations b. Memory - computer has limited memory 
+
+
+TIme complexity - speed 
+Space Complexity - memory 
+
+Space Complexity 
+
+Heap where we store variables declared 
+Stack - we keep track of function calls 
+
+
+What causes space complexity 
+Variabels 
+Data Structures 
+Function call
+Allocations 
+
+
+Big O is how you can scale 
+Readable matters a lot, 
+
+Premature optimization is an evil 
+Readability of code is important 
+
+
+What are compaies looking for 
+
+1. Analytic skills 
+2. Coding skills 
+3. Technical skills 
+4. Communication Skills 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
