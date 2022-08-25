@@ -99,10 +99,37 @@ Readability of code is important
 
 What are compaies looking for 
 
-1. Analytic skills 
-2. Coding skills 
-3. Technical skills 
-4. Communication Skills 
+1. Analytic skills  - How you think through problems and analyze them 
+2. Coding skills  - Do you code well, by writting clean, organized, readable code
+3. Technical skills - DO you know the fundermentals of the job you are appluing for ?
+4. Communication Skills - DOes your personallity match the companies'culture 
+
+
+Things to learn 
+
+Data Strucures 
+
+Arrays 
+Stacks 
+Trees
+Stacks 
+Tries 
+queues 
+Graphs 
+Linked list 
+Hash Tables 
+
+
+
+Algo
+
+1. Sorting 
+2. Dynamic Programming 
+3. BFS + DFS (searching)
+4. Recursion 
+
+
+
 
 
 
