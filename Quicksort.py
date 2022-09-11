@@ -7,7 +7,7 @@ partition the array into two sub arrays: elements less than the pivot and elemen
 call quicksort recursively on the two sub arrays 
 
 
-
+Big O = O(n log n)
 """
 
 
